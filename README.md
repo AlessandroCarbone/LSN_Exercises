@@ -9,9 +9,9 @@ Each of the following folders refers to one of the 12 lessons composing the cour
 
 - Probability theory, stochastic processes, mathematical statistics
 - Sampling of random variables and Monte Carlo integration
-• Markov Chains, Metropolis Algorithm
-• Numerical simulations in classical and quantum statistical mechanics
-• Stochastic calculus and stochastic differential equations with applications 
-• Computational intelligence, optimization, stochastic optimization
-• Introduction to Machine learning & Neural Networks
-• Introduction to parallel programming (MPI, Open MP)
+- Markov Chains, Metropolis Algorithm
+- Numerical simulations in classical and quantum statistical mechanics
+- Stochastic calculus and stochastic differential equations with applications 
+- Computational intelligence, optimization, stochastic optimization
+- Introduction to Machine learning & Neural Networks
+- Introduction to parallel programming (MPI, Open MP)
