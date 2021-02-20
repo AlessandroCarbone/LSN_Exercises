@@ -7,8 +7,8 @@ Each of the following folders refers to one of the 12 lessons composing the cour
 
 ## Topics of the course
 
-• Probability theory, stochastic processes, mathematical statistics
-• Sampling of random variables and Monte Carlo integration
+- Probability theory, stochastic processes, mathematical statistics
+- Sampling of random variables and Monte Carlo integration
 • Markov Chains, Metropolis Algorithm
 • Numerical simulations in classical and quantum statistical mechanics
 • Stochastic calculus and stochastic differential equations with applications 
